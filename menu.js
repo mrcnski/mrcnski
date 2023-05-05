@@ -5,7 +5,7 @@ function menu() {
 
   for (let i = 0; i < spans.length; i++) {
     const span = spans[i];
-    if (span.textContent == '0.00') {
+    if (span.textContent.endsWith('0.00')) {
       let otherSpan = span.parentElement.parentElement.parentElement.parentElement
                           .children[2].children[0].children[0];
 
@@ -119,8 +119,3 @@ function menu() {
 
 // Interval set to 1 second.
 var timer = setInterval(menu, 1000);
-
-// Clear timer after some time.
-setInterval(() => {
-  clearInterval(timer);
-}, 15000);
