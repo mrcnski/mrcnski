@@ -119,8 +119,3 @@ function menu() {
 
 // Interval set to 1 second.
 var timer = setInterval(menu, 1000);
-
-// Clear timer after some time.
-setInterval(() => {
-  clearInterval(timer);
-}, 15000);
