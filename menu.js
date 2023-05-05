@@ -1,17 +1,117 @@
 // This will be the worst code in the history of humanity.
 
 function menu() {
-  console.log("searching for spans...")
   const spans = document.getElementsByTagName('span');
 
   for (let i = 0; i < spans.length; i++) {
     const span = spans[i];
-    console.log("found span:", span)
     if (span.textContent == '0.00') {
       let otherSpan = span.parentElement.parentElement.parentElement.parentElement
                           .children[2].children[0].children[0];
+
+      // Rossi
       if (otherSpan.textContent.includes('CELLAIA ROSSO')) {
         span.textContent = '7 / 18';
+      }
+      else if (otherSpan.textContent.includes('CAOS')) {
+        span.textContent = '7 / 18';
+      }
+      else if (otherSpan.textContent.includes('COLLE ARENARIO')) {
+        span.textContent = '7 / 20';
+      }
+      else if (otherSpan.textContent.includes('DONNALUNA')) {
+        span.textContent = '10 / 24';
+      }
+      else if (otherSpan.textContent.includes('ROSSO CAMPANIA')) {
+        span.textContent = '9 / 28';
+      }
+      else if (otherSpan.textContent.includes('PATRINUS')) {
+        span.textContent = '10 / 30';
+      }
+      else if (otherSpan.textContent.includes('KLÈOS')) {
+        span.textContent = '10 / 32';
+      }
+      else if (otherSpan.textContent.includes('ROSSO DEL CIGLIO')) {
+        span.textContent = '12 / 32';
+      }
+      else if (otherSpan.textContent.includes('PROCLAMO RISERVA')) {
+        span.textContent = '46';
+      }
+      else if (otherSpan.textContent.includes('PRIMALATERRA 2012')) {
+        span.textContent = '73';
+      }
+
+      // Bianchi
+      else if (otherSpan.textContent.includes('CELLAIA BIANCO')) {
+        span.textContent = '7 / 18';
+      }
+      else if (otherSpan.textContent.includes('COLLI MONTICORICESI')) {
+        span.textContent = '7 / 18';
+      }
+      else if (otherSpan.textContent.includes('ETÈL')) {
+        span.textContent = '7 / 19';
+      }
+      else if (otherSpan.textContent.includes('OGLIASTRO MARINA')) {
+        span.textContent = '7 / 20';
+      }
+      else if (otherSpan.textContent.includes('VALMEZZANA')) {
+        span.textContent = '8 / 22';
+      }
+      else if (otherSpan.textContent.includes('PROCLAMO')) {
+        span.textContent = '8 / 22';
+      }
+      else if (otherSpan.textContent.includes('VINCENZÌ')) {
+        span.textContent = '8 / 23';
+      }
+      else if (otherSpan.textContent.includes('DONNALUNA')) {
+        span.textContent = '8 / 24';
+      }
+      else if (otherSpan.textContent.includes('CORSOLE')) {
+        span.textContent = '10 / 25';
+      }
+      else if (otherSpan.textContent.includes('PAESTUM')) {
+        span.textContent = '11 / 26';
+      }
+      else if (otherSpan.textContent.includes('LICOSA')) {
+        span.textContent = '10 / 30';
+      }
+      else if (otherSpan.textContent.includes('KRÀTOS')) {
+        span.textContent = '10 / 32';
+      }
+
+      // Rosati
+      else if (otherSpan.textContent.includes('MARICINÈ')) {
+        span.textContent = '7 / 20';
+      }
+      else if (otherSpan.textContent.includes('ANNA')) {
+        span.textContent = '10 / 25';
+      }
+      else if (otherSpan.textContent.includes('PRIMMAVERA')) {
+        span.textContent = '10 / 29';
+      }
+
+      // Vivaci
+      else if (otherSpan.textContent.includes('CAPRARIZZO')) {
+        span.textContent = '7 / 20';
+      }
+      else if (otherSpan.textContent.includes('DESIDERIO BIANCO')) {
+        span.textContent = '8 / 22';
+      }
+      else if (otherSpan.textContent.includes('DESIDERIO ROSATO')) {
+        span.textContent = '10 / 24';
+      }
+
+      // Spumanti
+      else if (otherSpan.textContent.includes('SELIM')) {
+        span.textContent = '9 / 23';
+      }
+      else if (otherSpan.textContent.includes('TREDANIELE SPUMANTE')) {
+        span.textContent = '35';
+      }
+
+      // Other prices
+      else {
+        span.textContent = span.textContent.slice(0, -3);
       }
     }
   }
