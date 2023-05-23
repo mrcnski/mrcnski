@@ -34,6 +34,9 @@ function menu() {
       else if (otherSpan.textContent.includes('ROSSO DEL CIGLIO')) {
         span.textContent = '12 / 32';
       }
+      else if (otherSpan.textContent.includes('ROSSO PAESTUM')) {
+        span.textContent = '36';
+      }
       else if (otherSpan.textContent.includes('PROCLAMO RISERVA')) {
         span.textContent = '46';
       }
@@ -78,6 +81,9 @@ function menu() {
       else if (otherSpan.textContent.includes('KRÀTOS')) {
         span.textContent = '10 / 32';
       }
+      else if (otherSpan.textContent.includes('VESOLE')) {
+        span.textContent = '36';
+      }
 
       // Rosati
       else if (otherSpan.textContent.includes('MARICINÈ')) {
@@ -92,13 +98,16 @@ function menu() {
 
       // Vivaci
       else if (otherSpan.textContent.includes('CAPRARIZZO')) {
-        span.textContent = '7 / 20';
+        span.textContent = '20';
+      }
+      else if (otherSpan.textContent.includes('PASHKÀ')) {
+        span.textContent = '22';
       }
       else if (otherSpan.textContent.includes('DESIDERIO BIANCO')) {
-        span.textContent = '8 / 22';
+        span.textContent = '22';
       }
       else if (otherSpan.textContent.includes('DESIDERIO ROSATO')) {
-        span.textContent = '10 / 24';
+        span.textContent = '24';
       }
 
       // Spumanti
