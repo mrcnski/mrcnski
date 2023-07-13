@@ -1,11 +1,13 @@
 // This will be the worst code in the history of humanity.
 
+console.log("menu-fixer v0.1.10");
+
 function menu() {
   const spans = document.getElementsByTagName('span');
 
   for (let i = 0; i < spans.length; i++) {
     const span = spans[i];
-    if (span.textContent.includes('.00')) {
+    if (span.textContent.includes('00')) {
       let otherSpan = span.parentElement.parentElement.parentElement.parentElement
                           .children[2].children[0].children[0];
 
