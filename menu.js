@@ -5,7 +5,7 @@ function menu() {
 
   for (let i = 0; i < spans.length; i++) {
     const span = spans[i];
-    if (span.textContent.endsWith('.00')) {
+    if (span.textContent.includes('.00')) {
       let otherSpan = span.parentElement.parentElement.parentElement.parentElement
                           .children[2].children[0].children[0];
 
