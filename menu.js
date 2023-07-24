@@ -128,5 +128,5 @@ function menu() {
   }
 }
 
-// Interval set to 1 second.
-var timer = setInterval(menu, 1000);
+menu();
+var timer = setInterval(menu, 250);
