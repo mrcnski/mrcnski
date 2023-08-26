@@ -1,6 +1,6 @@
 // This will be the worst code in the history of humanity.
 
-console.log("menu-fixer v0.1.12");
+console.log("menu-fixer v0.1.14");
 
 function menu() {
   const spans = document.getElementsByTagName('span');
@@ -26,6 +26,9 @@ function menu() {
       }
       else if (otherSpan.textContent.includes('ROSSO CAMPANIA')) {
         span.textContent = '9 / 30';
+      }
+      else if (otherSpan.textContent.includes('MALABROCCA')) {
+        span.textContent = '10 / 31';
       }
       else if (otherSpan.textContent.includes('PATRINUS')) {
         span.textContent = '10 / 32';
@@ -73,9 +76,6 @@ function menu() {
       }
       else if (otherSpan.textContent.includes('CORSOLE')) {
         span.textContent = '10 / 27';
-      }
-      else if (otherSpan.textContent.includes('PAESTUM')) {
-        span.textContent = '11 / 28';
       }
       else if (otherSpan.textContent.includes('LICOSA')) {
         span.textContent = '10 / 32';
