@@ -1,6 +1,6 @@
 // This will be the worst code in the history of humanity.
 
-console.log("menu-fixer v0.1.14");
+console.log("menu-fixer v0.1.15");
 
 function menu() {
   const spans = document.getElementsByTagName('span');
@@ -10,6 +10,8 @@ function menu() {
     if (span.textContent.includes('00')) {
       let otherSpan = span.parentElement.parentElement.parentElement
                           .children[2].children[0].children[0];
+
+      // TODO: Don't use `includes`, can break, e.g. PAESTUM and ROSSO PAESTUM.
 
       // Rossi
       if (otherSpan.textContent.includes('CELLAIA ROSSO')) {
