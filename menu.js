@@ -1,13 +1,13 @@
 // This will be the worst code in the history of humanity.
 
-console.log("menu-fixer v0.1.17");
+console.log("menu-fixer v0.1.18");
 
 let prices = {
   // Rossi
   'CELLAIA ROSSO'       : '7 / 20',
   'CAOS'                : '7 / 20',
   'COLLE ARENARIO'      : '7 / 22',
-  'DONNALUNA'           : '10 / 26',
+  'DONNALUNA ROSSO'     : '10 / 26',
   'ROSSO CAMPANIA'      : '9 / 30',
   'MALABROCCA'          : '10 / 31',
   'PATRINUS'            : '10 / 32',
@@ -25,7 +25,7 @@ let prices = {
   'VALMEZZANA'          : '8 / 24',
   'PROCLAMO'            : '8 / 24',
   'VINCENZÌ'            : '8 / 25',
-  'DONNALUNA'           : '8 / 26',
+  'DONNALUNA BIANCO'    : '8 / 26',
   'CORSOLE'             : '10 / 27',
   'LICOSA'              : '10 / 32',
   'KRÀTOS'              : '10 / 34',
@@ -45,6 +45,9 @@ let prices = {
   // Spumanti
   'SELIM'               : '9 / 25',
   'TREDANIELE SPUMANTE' : '37',
+
+  // Backwards-compat, can be removed in next update
+  'DONNALUNA'           : '8 / 26',
 };
 
 function menu() {
