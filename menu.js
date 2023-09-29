@@ -1,6 +1,6 @@
 // This will be the worst code in the history of humanity.
 
-console.log("menu-fixer v0.1.18");
+console.log("menu-fixer v0.1.19");
 
 let prices = {
   // Rossi
@@ -56,7 +56,7 @@ function menu() {
   for (let i = 0; i < spans.length; i++) {
     const span = spans[i];
     if (span.textContent.includes('00')) {
-      let nameSpan = span.parentElement.parentElement.parentElement
+      let nameSpan = span.parentElement.parentElement
                           .children[2].children[0].children[0];
 
       let name = nameSpan.textContent.trim();
