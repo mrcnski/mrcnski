@@ -52,27 +52,30 @@ let prices = {
 
 function menu() {
   const spans = document.getElementsByTagName('span');
-  let is_first = true;
 
+  let is_first = true;
   for (let i = 0; i < spans.length; i++) {
     const span = spans[i];
-    if (span.textContent.includes('00')) {
-      let nameSpan = span.parentElement.parentElement
-                          .children[2].children[0].children[0];
+    if (!span.textContent.includes('00')) {
+      console.log(span.textContent);
+      continue;
+    }
 
-      let name = nameSpan.textContent.trim();
-      if (is_first) {
-        console.log("Example name:", name);
-        is_first = false;
-      }
-      let price = prices[name];
+    let nameSpan = span.parentElement.parentElement
+                       .children[2].children[0].children[0];
 
-      if (price) {
-        span.textContent = price;
-      } else {
-        // Other prices
-        span.textContent = "0.00";
-      }
+    let name = nameSpan.textContent.trim();
+    if (is_first) {
+      console.log("Example name:", name);
+      is_first = false;
+    }
+    let price = prices[name];
+
+    if (price) {
+      span.textContent = price;
+    } else {
+      // Other prices
+      span.textContent = "0.00";
     }
   }
 }
