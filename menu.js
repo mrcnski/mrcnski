@@ -1,6 +1,6 @@
 // This will be the worst code in the history of humanity.
 
-console.log("menu-fixer v0.1.19");
+console.log("menu-fixer v0.1.20");
 
 let prices = {
   // Rossi
@@ -52,6 +52,7 @@ let prices = {
 
 function menu() {
   const spans = document.getElementsByTagName('span');
+  let is_first = true;
 
   for (let i = 0; i < spans.length; i++) {
     const span = spans[i];
@@ -60,13 +61,17 @@ function menu() {
                           .children[2].children[0].children[0];
 
       let name = nameSpan.textContent.trim();
+      if (is_first) {
+        console.log("Example name:", name);
+        is_first = false;
+      }
       let price = prices[name];
 
       if (price) {
         span.textContent = price;
       } else {
         // Other prices
-        span.textContent = span.textContent.slice(0, -3);
+        span.textContent = "0.00";
       }
     }
   }
