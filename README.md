@@ -1,6 +1,6 @@
-## Current Projects
+## Latest Projects
 
-- **[smallcues.com](https://smallcues.com)** — *Work in progress*
+- **[smallcues.com](https://smallcues.com)** — Small actions that add up
 
 ## Sites I've Built
 
