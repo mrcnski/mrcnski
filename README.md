@@ -1,6 +1,6 @@
 ## Latest Projects
 
-- **[smallcues.com](https://smallcues.com)** — Small actions that add up
+- <img src="images/smallcues-logo.svg" width="18" alt="Small Cues logo" align="absmiddle"> **[smallcues.com](https://smallcues.com)** — Small actions that add up
 
 ## Tools
 
