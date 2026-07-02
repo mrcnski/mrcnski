@@ -13,13 +13,13 @@
 
 ## Sites I've Built
 
-- **[signor.dev](https://signor.dev)** — My tech blog
-- **[baiaditrentova.com](https://baiaditrentova.com)** — A great place to stay in Italy
-- **[ubbipo.it](https://ubbipo.it)** — A great restaurant in Italy
+- <img src="images/signor-logo.svg" width="18" alt="signor.dev logo" align="absmiddle"> **[signor.dev](https://signor.dev)** — My tech blog
+- <img src="images/baiaditrentova-logo.png" width="18" alt="Baia di Trentova logo" align="absmiddle"> **[baiaditrentova.com](https://baiaditrentova.com)** — A great place to stay in Italy
+- <img src="images/ubbipo-logo.svg" width="18" alt="Ubbi Po logo" align="absmiddle"> **[ubbipo.it](https://ubbipo.it)** — A great restaurant in Italy
 
 ## Faith Projects
 
-- **[scroll-search.com](https://scroll-search.com)** — A basic search engine for ancient texts
-- **[believeobey.live](https://believeobey.live)** — Learnings from trying to find the purpose of life
+- <img src="images/scroll-search-logo.svg" width="18" alt="Scroll Search logo" align="absmiddle"> **[scroll-search.com](https://scroll-search.com)** — A basic search engine for ancient texts
+- <img src="images/believeobey-logo.png" width="18" alt="Believe Obey logo" align="absmiddle"> **[believeobey.live](https://believeobey.live)** — Learnings from trying to find the purpose of life
 
 *Building things on the web and exploring what matters*
