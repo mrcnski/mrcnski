@@ -2,6 +2,12 @@
 
 - <img src="images/smallcues-logo.svg" width="18" alt="Small Cues logo" align="absmiddle"> **[smallcues.com](https://smallcues.com)** — Small actions that add up
 
+## Latest Blog Posts
+
+- **[My Favorite Tools](https://signor.dev/my-favorite-tools/)** — *2026-07-12*
+- **[Review of the Bear App](https://signor.dev/review-of-the-bear-app/)** — *2025-12-23*
+- **[Securing Polkadot Nodes](https://signor.dev/securing-polkadot-nodes/)** — *2025-01-07*
+
 ## Tools
 
 - **[compnav](https://github.com/mrcnski/compnav)** — Complete shell navigation: better up, z, and h
@@ -21,5 +27,7 @@
 
 - <img src="images/scroll-search-logo.svg" width="18" alt="Scroll Search logo" align="absmiddle"> **[scroll-search.com](https://scroll-search.com)** — A basic search engine for ancient texts
 - <img src="images/believeobey-logo.png" width="18" alt="Believe Obey logo" align="absmiddle"> **[believeobey.live](https://believeobey.live)** — Learnings from trying to find the purpose of life
+
+---
 
 *Building things on the web and exploring what matters*
