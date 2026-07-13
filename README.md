@@ -4,18 +4,18 @@
 
 ## Latest Blog Posts
 
-- **[My Favorite Tools](https://signor.dev/my-favorite-tools/)** — *2026-07-12*
-- **[Review of the Bear App](https://signor.dev/review-of-the-bear-app/)** — *2025-12-23*
-- **[Securing Polkadot Nodes](https://signor.dev/securing-polkadot-nodes/)** — *2025-01-07*
+- <img src="images/signor-logo.svg" width="18" alt="signor.dev logo" align="absmiddle"> **[My Favorite Tools](https://signor.dev/my-favorite-tools/)** — *2026-07-12*
+- <img src="images/signor-logo.svg" width="18" alt="signor.dev logo" align="absmiddle"> **[Review of the Bear App](https://signor.dev/review-of-the-bear-app/)** — *2025-12-23*
+- <img src="images/signor-logo.svg" width="18" alt="signor.dev logo" align="absmiddle"> **[Securing Polkadot Nodes](https://signor.dev/securing-polkadot-nodes/)** — *2025-01-07*
 
 ## Tools
 
-- **[compnav](https://github.com/mrcnski/compnav)** — Complete shell navigation: better up, z, and h
-- **[nimbus-theme](https://github.com/mrcnski/nimbus-theme)** — [Emacs] A beautiful, slightly retro dark theme that's easy on the eyes
-- **[org-recur](https://github.com/mrcnski/org-recur)** — [Emacs] Simple recurring org-mode tasks
-- **[context-clues](https://github.com/mrcnski/context-clues)** — [Emacs] Easily copy context like the current file name and path
-- **[promptu](https://github.com/mrcnski/promptu)** — [Emacs] Compose LLM prompts from building blocks via a transient menu
-- **[keys](https://github.com/mrcnski/keys)** — [Emacs] Learn Emacs keybindings
+- <picture><source media="(prefers-color-scheme: dark)" srcset="images/github-favicon-dark.svg"><img src="images/github-favicon.svg" width="18" alt="GitHub logo" align="absmiddle"></picture> **[compnav](https://github.com/mrcnski/compnav)** — Complete shell navigation: better up, z, and h
+- <picture><source media="(prefers-color-scheme: dark)" srcset="images/github-favicon-dark.svg"><img src="images/github-favicon.svg" width="18" alt="GitHub logo" align="absmiddle"></picture> **[nimbus-theme](https://github.com/mrcnski/nimbus-theme)** — [Emacs] A beautiful, slightly retro dark theme that's easy on the eyes
+- <picture><source media="(prefers-color-scheme: dark)" srcset="images/github-favicon-dark.svg"><img src="images/github-favicon.svg" width="18" alt="GitHub logo" align="absmiddle"></picture> **[org-recur](https://github.com/mrcnski/org-recur)** — [Emacs] Simple recurring org-mode tasks
+- <picture><source media="(prefers-color-scheme: dark)" srcset="images/github-favicon-dark.svg"><img src="images/github-favicon.svg" width="18" alt="GitHub logo" align="absmiddle"></picture> **[context-clues](https://github.com/mrcnski/context-clues)** — [Emacs] Easily copy context like the current file name and path
+- <picture><source media="(prefers-color-scheme: dark)" srcset="images/github-favicon-dark.svg"><img src="images/github-favicon.svg" width="18" alt="GitHub logo" align="absmiddle"></picture> **[promptu](https://github.com/mrcnski/promptu)** — [Emacs] Compose LLM prompts from building blocks via a transient menu
+- <picture><source media="(prefers-color-scheme: dark)" srcset="images/github-favicon-dark.svg"><img src="images/github-favicon.svg" width="18" alt="GitHub logo" align="absmiddle"></picture> **[keys](https://github.com/mrcnski/keys)** — [Emacs] Learn Emacs keybindings
 
 ## Sites I've Built
 
