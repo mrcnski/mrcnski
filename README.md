@@ -1,5 +1,6 @@
 ## Latest Projects
 
+- <img src="images/promptu-app-logo.svg" width="18" alt="Promptu mascot" align="absmiddle"> **[promptu](https://github.com/mrcnski/promptu-app)** — `[Mac]` Compose LLM prompts from building blocks, right from the menubar
 - <img src="images/smallcues-logo.svg" width="18" alt="Small Cues logo" align="absmiddle"> **[smallcues.com](https://smallcues.com)** — Small actions that add up
 
 ## Latest Blog Posts
