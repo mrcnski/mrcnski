@@ -1,6 +1,6 @@
 ## Latest Projects
 
-- <img src="images/promptu-app-logo.svg" width="18" alt="Promptu mascot" align="absmiddle"> **[promptu](https://github.com/mrcnski/promptu-app)** — `[Mac]` Compose LLM prompts from building blocks, right from the menubar
+- <img src="images/promptu-app-logo.svg" width="18" alt="Promptu mascot" align="absmiddle"> **[promptu](https://github.com/mrcnski/promptu)** — `[Mac]` Compose LLM prompts from building blocks, right from the menubar
 - <img src="images/smallcues-logo.svg" width="18" alt="Small Cues logo" align="absmiddle"> **[smallcues.com](https://smallcues.com)** — Small actions that add up
 
 ## Latest Blog Posts
@@ -15,7 +15,7 @@
 - <picture><source media="(prefers-color-scheme: dark)" srcset="images/github-favicon-dark.svg"><img src="images/github-favicon.svg" width="18" alt="GitHub logo" align="absmiddle"></picture> **[nimbus-theme](https://github.com/mrcnski/nimbus-theme)** — `[Emacs]` A beautiful, slightly retro dark theme that's easy on the eyes
 - <picture><source media="(prefers-color-scheme: dark)" srcset="images/github-favicon-dark.svg"><img src="images/github-favicon.svg" width="18" alt="GitHub logo" align="absmiddle"></picture> **[org-recur](https://github.com/mrcnski/org-recur)** — `[Emacs]` Simple recurring org-mode tasks
 - <picture><source media="(prefers-color-scheme: dark)" srcset="images/github-favicon-dark.svg"><img src="images/github-favicon.svg" width="18" alt="GitHub logo" align="absmiddle"></picture> **[context-clues](https://github.com/mrcnski/context-clues)** — `[Emacs]` Easily copy context like the current file name and path
-- <picture><source media="(prefers-color-scheme: dark)" srcset="images/github-favicon-dark.svg"><img src="images/github-favicon.svg" width="18" alt="GitHub logo" align="absmiddle"></picture> **[promptu](https://github.com/mrcnski/promptu)** — `[Emacs]` Compose LLM prompts from building blocks via a transient menu
+- <picture><source media="(prefers-color-scheme: dark)" srcset="images/github-favicon-dark.svg"><img src="images/github-favicon.svg" width="18" alt="GitHub logo" align="absmiddle"></picture> **[promptu.el](https://github.com/mrcnski/promptu.el)** — `[Emacs]` Compose LLM prompts from building blocks via a transient menu
 - <picture><source media="(prefers-color-scheme: dark)" srcset="images/github-favicon-dark.svg"><img src="images/github-favicon.svg" width="18" alt="GitHub logo" align="absmiddle"></picture> **[keys](https://github.com/mrcnski/keys)** — `[Emacs]` Learn Emacs keybindings
 
 ## Sites I've Built
