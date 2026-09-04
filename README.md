@@ -5,9 +5,10 @@
 
 ## Latest Blog Posts
 
-- <img src="images/signor-logo.svg" width="18" alt="signor.dev logo" align="absmiddle"> **[My Favorite Tools](https://signor.dev/my-favorite-tools/)** — *2026-07-12*
-- <img src="images/signor-logo.svg" width="18" alt="signor.dev logo" align="absmiddle"> **[Review of the Bear App](https://signor.dev/review-of-the-bear-app/)** — *2025-12-23*
-- <img src="images/signor-logo.svg" width="18" alt="signor.dev logo" align="absmiddle"> **[Securing Polkadot Nodes](https://signor.dev/securing-polkadot-nodes/)** — *2025-01-07*
+- <img src="images/signor-logo.svg" width="18" alt="signor.dev logo" align="absmiddle"> **[Introducing Promptu](https://signor.dev/introducing-promptu/)** — *Sep 4, 2026*
+- <img src="images/signor-logo.svg" width="18" alt="signor.dev logo" align="absmiddle"> **[My Favorite Tools](https://signor.dev/my-favorite-tools/)** — *Jul 12, 2026*
+- <img src="images/signor-logo.svg" width="18" alt="signor.dev logo" align="absmiddle"> **[Review of the Bear App](https://signor.dev/review-of-the-bear-app/)** — *Dec 23, 2025*
+- <img src="images/signor-logo.svg" width="18" alt="signor.dev logo" align="absmiddle"> **[Securing Polkadot Nodes](https://signor.dev/securing-polkadot-nodes/)** — *Jan 7, 2025*
 
 ## Tools
 
